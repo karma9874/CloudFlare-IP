@@ -10,7 +10,7 @@ CloudFlare-IP is a tool which aims to gather origin IP of the website protected 
 - Shodan CLI with API key (**not** the free one)
 
 - To install shodan :
-``python3 -m easy_install shodan``
+``python3 -m easy_install shodan``,
 ``shodan init API_KEY ``  
 
 
