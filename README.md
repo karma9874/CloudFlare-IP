@@ -28,4 +28,4 @@ CloudFlare-IP is a tool which aims to gather origin IP of the website protected 
 * socket
 
 ## Example
-![Example usage](https://github.com/karma9874/CloudFlare-IP/example.jpg "Example usage")
+![Example usage](https://github.com/karma9874/CloudFlare-IP/blob/master/example.JPG "Example usage")
